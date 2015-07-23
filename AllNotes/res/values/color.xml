@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#5CACEE</color>
+    <color name="light_blue_pressed">#5CACEE</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hui_black">#cf9f5e</color>
+    <color name="green">#72cc55</color>
+    <color name="green_pressed">#58c136</color>
+    <color name="gray">#a7abc4</color>
+    <color name="gray_pressed">#b8b9c2</color>
+    <color name="gray_back">#e5e5e5</color>
+</resources>
